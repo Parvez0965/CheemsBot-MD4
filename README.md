@@ -64,8 +64,8 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
 - CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
 - CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
+- CHANGE OWNER NAME [PARVEZ](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
+- CHANGE BOT NAME [LG14](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
 
 ## ` BUILDPACKS`
 
